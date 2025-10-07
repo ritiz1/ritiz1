@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ritiz1
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ritiz@sportszebra.com
+Android Developer crafting clean & modern mobile experiences with Kotlin. Passionate about Jetpack Compose and clean architecture.
 
 <!---
 ritiz1/ritiz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
